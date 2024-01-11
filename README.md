@@ -1,7 +1,7 @@
-# vdi
-VMware Horizon 8 customize the login page
+# VMware Horizon 8 customize the login page
 
-For the basic content of VMware Horizon Web HTMl Login Homepage, please refer to the VMware official website, or refer to the following blog of the gods:
+
+For the basic customization or removal of "Help" or "Download" links in VMware Horizon Web HTML Login Homepage, please follow the official VMware website guidelines or refer to the expert blog for detailed instructions:
 
 https://nolabnoparty.com/en/vmware-horizon-8-customize-the-login-page
 
