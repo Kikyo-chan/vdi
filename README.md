@@ -40,7 +40,8 @@ searching  "help-link"
 According to this method, look up all the XXXX-related content, then cut or delete it, and finally save it.
 ![image](https://github.com/Kikyo-chan/vdi/assets/18164716/ea90ac61-d469-4daf-818e-6da5932aea5b)
 
-#Alternatively, you can remove the vmware_logo:
+Alternatively, you can remove the vmware_logo:
+
 C:\Program Files\VMware\VMware View\Server\broker\webapps\portal\webclient
 
 Edit and modify the style.app-htmlaccess.xxxxxxx.css、style.css file:
