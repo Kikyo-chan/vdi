@@ -5,6 +5,10 @@ For the basic customization or removal of "Help" or "Download" links in VMware H
 
 https://nolabnoparty.com/en/vmware-horizon-8-customize-the-login-page
 
+Default VMware Horizon8 Web HTML Login Homepage:
+![image](https://github.com/Kikyo-chan/vdi/assets/18164716/f5e71fa6-8cf4-4b0f-990c-a986b8cc4401)
+
+
 Let's talk about how to customize or remove "Help" or "Download":
 
 Navigate to the installation directory of VMware Horizon, typically located at:
